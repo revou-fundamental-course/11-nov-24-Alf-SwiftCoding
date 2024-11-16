@@ -1,0 +1,41 @@
+/* ini css */
+.main-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+h1 {
+    justify-self: center;
+}
+p {
+    justify-self: center;
+}
+main {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+.logo-icon{
+    height: 50px;
+    width: 50px;
+    background-image: url(https://img.freepik.com/free-vector/gradient-speed-motion-background_23-2149000632.jpg?w=826&t=st=1729270959~exp=1729271559~hmac=4ac0f71…);
+    background-size: cover;
+    background-position: left;
+    border-radius: 50%;
+}
+
+nav {
+    border: 1px solid #000000;
+    padding: 2px;
+    color: #000000;
+}
+.formcontainer {
+    position: relative;
+    width: 40vw;
+    height: 70vh;
+}
+
+.pasfoto {
+  position: relative;
+  width: 30vw;
+}
